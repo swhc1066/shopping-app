@@ -460,12 +460,26 @@ img.icon {
   margin: 0 auto;
 }
 
+#list-imput {
+  box-shadow: none;
+  height: 98%;
+  width: 100%;
+  border-style: hidden;
+  padding-left: 88px;
+  font-size: 32px;
+  color: #c9e2e1;
+  font-weight: 300;
+  font-style: italic;
+  font-family: 'Open Sans', sans-serif;
+  box-shadow: none;
+}
+
 p.enter-text {
   margin: 0 88px;
   color: #c9e2e1;
-  font-family: "proxima-nova",sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-style: italic;
-  font-weight: 100;
+  font-weight: 300;
   padding-top: 30px;
   font-size: 32px;
 }
@@ -486,8 +500,8 @@ p.enter-text {
 p.list-text {
   margin: 0 88px;
   color: #445878;
-  font-family: "proxima-nova",sans-serif;
-  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
   font-size: 32px;
   padding-top: 30px;
   float: left;
@@ -518,8 +532,8 @@ p.list-text {
 p.list-text-added {
   margin: 0 48px;
   color: #c9e2e1;
-  font-family: "proxima-nova",sans-serif;
-  font-weight: 100;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
   font-size: 32px;
   padding-top: 30px;
   float: left;
@@ -553,7 +567,7 @@ p.delete-text {
   margin: 0 88px;
   color: #ed3f78;
   font-family: "proxima-nova",sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 32px;
   font-style: italic;
   padding-top: 28px;
