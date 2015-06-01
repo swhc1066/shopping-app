@@ -470,14 +470,15 @@ img.icon {
   color: #c9e2e1;
   font-weight: 300;
   font-style: italic;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'proxima-nova', sans-serif;
   box-shadow: none;
+  outline: none;
 }
 
 p.enter-text {
   margin: 0 88px;
   color: #c9e2e1;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'proxima-nova', sans-serif;
   font-style: italic;
   font-weight: 300;
   padding-top: 30px;
@@ -500,7 +501,7 @@ p.enter-text {
 p.list-text {
   margin: 0 88px;
   color: #445878;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'proxima-nova', sans-serif;
   font-weight: 600;
   font-size: 32px;
   padding-top: 30px;
@@ -532,7 +533,7 @@ p.list-text {
 p.list-text-added {
   margin: 0 48px;
   color: #c9e2e1;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'proxima-nova', sans-serif;
   font-weight: 300;
   font-size: 32px;
   padding-top: 30px;
