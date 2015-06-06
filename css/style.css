@@ -443,7 +443,6 @@ img.icon {
 .container {
   width: 100%;
   background-color: #f2f2f2;
-  height: 200px;
 }
 
 .list-row {
@@ -480,7 +479,7 @@ p.enter-text {
   color: #c9e2e1;
   font-family: 'proxima-nova', sans-serif;
   font-style: italic;
-  font-weight: 300;
+  font-weight: 300;term
   padding-top: 30px;
   font-size: 32px;
 }
@@ -575,7 +574,7 @@ p.delete-text {
   float: left;
 }
 
-.delete-icon {
+#delete-icon {
   margin-top: 28px;
   float: right;
   margin-right: 88px;
